@@ -2,6 +2,10 @@ import pandas as pd
 import requests
 import streamlit as st
 
+from streamlit_autorefresh import st_autorefresh
+
+st_autorefresh(interval=1000, key="labpulse_refresh")
+
 st.set_page_config(page_title="LabPulse")
 
 st.title("LabPulse Dashboard")

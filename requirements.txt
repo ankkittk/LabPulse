@@ -1,9 +1,10 @@
 fastapi
 uvicorn
-mysql-connector-python
+mysql-connector-python==8.2.0
 psutil
 streamlit
 requests
 python-dotenv
 pydantic
 pandas
+streamlit-autorefresh
