@@ -8,3 +8,5 @@ python-dotenv
 pydantic
 pandas
 streamlit-autorefresh
+scikit-learn
+numpy
