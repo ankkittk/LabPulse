@@ -10,3 +10,4 @@ pandas
 streamlit-autorefresh
 scikit-learn
 numpy
+google-genai>=1.0.0
